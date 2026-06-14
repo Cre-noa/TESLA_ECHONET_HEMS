@@ -87,7 +87,7 @@ python smart_hems_app.py
 
 ## 第三者成果物・クレジット
 
-このアプリは、HEMS/ECHONET Lite情報をWebSocketで配信する外部プロセスとして `koizuka/echonet-list` を利用する想定です。`echonet-list` は `@koizuka` さんによる ECHONET Lite device discovery/control tool で、MIT License で公開されています。
+このアプリは、HEMS/ECHONET Lite情報をWebSocketで配信する外部プロセスとして `koizuka/echonet-list` を利用する想定です。`echonet-list` は `@koizuka` さんによる ECHONET Lite device discovery/control tool で、MIT License で公開されています。LINK:https://github.com/koizuka/echonet-list
 
 本リポジトリでは `echonet-list` のソースコードや生成物を同梱せず、READ VMが `HEMS_WS_URL` 経由で外部プロセスへ接続する構成にしています。利用関係・ライセンス・著作権表示は `THIRD_PARTY_NOTICES.md` に明記しています。
 
