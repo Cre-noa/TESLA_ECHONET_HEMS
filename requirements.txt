@@ -1,0 +1,9 @@
+Flask>=3.0,<4.0
+flask-cors>=4.0,<7.0
+requests>=2.31,<3.0
+websocket-client>=1.7,<2.0
+paho-mqtt>=2.0,<3.0
+pandas>=2.0,<3.0
+pvlib>=0.10,<1.0
+influxdb-client>=1.40,<2.0
+python-dotenv>=1.0,<2.0

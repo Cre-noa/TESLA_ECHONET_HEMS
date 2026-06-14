@@ -1,0 +1,15 @@
+{
+  "SYSTEM_CAPACITY_W": 2400,
+  "SYSTEM_LOSS_FACTOR": 0.822,
+  "BATT_MAX_WH": 12600,
+  "GRID_LIMIT_W": 6400,
+  "WARNING_LIMIT_W": 6200,
+  "CRITICAL_LIMIT_W": 6350,
+  "TARGET_SAFE_POWER_W": 6000,
+  "MAX_CHARGE_AMPS": 32,
+  "TESLA_HEAVY_CHARGE_KM": 30.0,
+  "DISCORD_WEBHOOK_URL": "",
+  "primary_charge_window": "",
+  "solar_assist_charge_window": "",
+  "solar_planning_poll_window": ""
+}

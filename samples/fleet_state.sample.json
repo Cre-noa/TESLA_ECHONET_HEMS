@@ -1,0 +1,10 @@
+{
+  "status": "success",
+  "classification": "unknown",
+  "charge_state": {
+    "battery_level": 50,
+    "charging_state": "Stopped",
+    "charge_limit_soc": 80,
+    "battery_range_km": 200.0
+  }
+}
